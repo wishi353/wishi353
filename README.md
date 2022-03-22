@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wishi353
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C, Python and Java
 - 📫 How to reach me come2vaishnavi@gmail.com
 
 <!---
